@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro1709/Natours.git"
+  },
+  "author": "Alejandro La Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro1709/Natours/issues"
+  },
+  "homepage": "https://github.com/Alejandro1709/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
